@@ -8,6 +8,7 @@ main()
 	int max, min;
 	int i = 1;
 
+	printf("안녕하세요");
 	printf("임의의 두개의 정수를 입력하시오\n");
 	scanf("%d %d", &n, &m);
 	
